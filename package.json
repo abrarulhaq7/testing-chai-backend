@@ -1,0 +1,15 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "chai backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "abrarmughal003@gmil.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
